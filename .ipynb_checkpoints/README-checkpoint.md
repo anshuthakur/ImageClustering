@@ -4,7 +4,7 @@ Based on the images given, the task is to group the images into distinct product
 
 ## Getting Started
 
-To run the code, place the images into `pics/` folder and run all the cells in `image_clustering.ipynb` notebook.
+To run the code, place the images into `pics/` folder and run all the cells in `image_clustering.ipynb` notebook. Or run the `image_clustering.py` file.
 
 ### Prerequisites
 
